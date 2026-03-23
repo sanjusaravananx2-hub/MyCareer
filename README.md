@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="mailto:sanjeevsaravanakumarx1@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00d4aa" alt="Email"/></a>
-  <a href="https://linkedin.com/in/sanjeev-kumarx2"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8" alt="LinkedIn"/></a>
-  <a href="https://github.com/sanjeev-kumarx2"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/sanjusaravananx2-hub"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8" alt="LinkedIn"/></a>
+  <a href="https://github.com/sanjusaravananx2-hub"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Location-Leeds,%20UK-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00d4aa" alt="Location"/>
 </p>
 
@@ -178,12 +178,12 @@ engineer_t sanjeev = {
 ## `> top -b | head`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjeev-kumarx2&show_icons=true&theme=react&bg_color=0d1117&title_color=00d4aa&icon_color=00b4d8&text_color=c9d1d9&border_color=30363d&hide_border=false" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjeev-kumarx2&theme=react&background=0d1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&sideLabels=c9d1d9&dates=8b949e&border=30363d" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjusaravananx2-hub&show_icons=true&theme=react&bg_color=0d1117&title_color=00d4aa&icon_color=00b4d8&text_color=c9d1d9&border_color=30363d&hide_border=false" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanjusaravananx2-hub&theme=react&background=0d1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&sideLabels=c9d1d9&dates=8b949e&border=30363d" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeev-kumarx2&layout=compact&theme=react&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&border_color=30363d&langs_count=8" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjusaravananx2-hub&layout=compact&theme=react&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&border_color=30363d&langs_count=8" height="160"/>
 </p>
 
 ---
@@ -191,7 +191,7 @@ engineer_t sanjeev = {
 ## `> tail -f /var/log/activity.log`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeev-kumarx2&theme=react-dark&bg_color=0d1117&color=00d4aa&line=00b4d8&point=ffffff&area=true&area_color=00d4aa&hide_border=false" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjusaravananx2-hub&theme=react-dark&bg_color=0d1117&color=00d4aa&line=00b4d8&point=ffffff&area=true&area_color=00d4aa&hide_border=false" width="95%"/>
 </p>
 
 ---
@@ -201,7 +201,7 @@ engineer_t sanjeev = {
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjeev-kumarx2&style=for-the-badge&color=00d4aa&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sanjusaravananx2-hub&style=for-the-badge&color=00d4aa&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 <p align="center">
