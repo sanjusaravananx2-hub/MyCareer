@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+._*
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.toc
+*.bbl
+*.blg
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Temp files
+hvbfhkbd
+ssss
+
+# Claude
+.claude/
